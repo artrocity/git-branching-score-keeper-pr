@@ -13,12 +13,11 @@ npm start
 
 ## Overview
 
-Create a **new feature branch** for each of the tasks listed below and then merging the changes back into **main** using a **pull request** after each one. 
+Create a **new feature branch** for each of the tasks listed below and then merging the changes back into **main** using a **pull request** after each one.
 
-You will only be making changes to the **index.html** and **styles.css** files. 
+You will only be making changes to the **index.html** and **styles.css** files.
 
 **Don't over think this assignment. The focus is not on the tasks. The goal is to practice branching.**
-
 
 ## Task List
 
@@ -28,14 +27,14 @@ The client finally got back to us with answers to our questions. We can now make
 
 ### Base Mode
 
-- [ ] **feature-team-names** - Team names have been assigned, they should read **Team Tomato** and **Team Plum**
-   - After adding and committing, merge this branch back to `main`
-- [ ] **feature-page-title** - The title of the page should read **Battle of the Fruits**
-   - After adding and committing, merge this branch back to `main`
+- [ X ] **feature-team-names** - Team names have been assigned, they should read **Team Tomato** and **Team Plum**
+  - After adding and committing, merge this branch back to `main`
+- [ X ] **feature-page-title** - The title of the page should read **Battle of the Fruits**
+  - After adding and committing, merge this branch back to `main`
 - [ ] **feature-bg-colors** - The team divs (with classes `.team1` & `.team2`) should have background colors that match the team names
-   - After adding and committing, merge this branch back to `main`
+  - After adding and committing, merge this branch back to `main`
 - [ ] **feature-footer** - Create a footer at the bottom of the page that reads 'Made by Tomatoes inc.'
-   - After adding and committing, merge this branch back to `main`
+  - After adding and committing, merge this branch back to `main`
 
 ## Git Branching Cheatsheet
 
@@ -90,6 +89,3 @@ That's it! Now repeat the steps for your next feature. Make sure to switch back 
 
 - More Git practice: [https://try.github.io/levels/1/challenges/1](https://try.github.io/levels/1/challenges/1)
 - Pull requests: [https://help.github.com/articles/creating-a-pull-request/](https://help.github.com/articles/creating-a-pull-request/)
-
-
-
